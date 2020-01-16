@@ -7,7 +7,7 @@ Metodlologias Desarrollo de Software
 Arquituctura de Software
 Dev Ops
 
-editores Visual Studio Code | Atom | Vim y sus plugins 
+## editores Visual Studio Code | Atom | Vim y sus plugins 
 
 shell scriptss | Python
 npm | npx
