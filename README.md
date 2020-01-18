@@ -3,13 +3,21 @@ SoftwareLibre
 
 https://github.com/qirolab/learn-vuex-with-basic-ecommerce-example/tree/master/vuex-tutorial
 
-Metodlologias Desarrollo de Software
+Creacion de Api RestFull basados en Python
+https://unipython.com/como-hacer-paso-a-paso-una-api-restful-en-flask-con-python/
+https://www.paradigmadigital.com/dev/implementar-microservicios-python-minutos/
+http://migueleonardortiz.com.ar/rest/como-crear-un-api-con-python-flask-y-mongodb/1952
+Ejemplos de Microservicios
+https://github.com/eso31/WebApp-flask
+https://github.com/eso31/API-flask
+
+Metodologias Desarrollo de Softwarehttps://unipython.com/como-hacer-paso-a-paso-una-api-restful-en-flask-con-python/
 Arquituctura de Software
 Dev Ops
 
 ## editores Visual Studio Code | Atom | Vim y sus plugins 
 
-shell scriptss | Python
+shell scripts | Python
 npm | npx
 node.js
 express.js
@@ -18,8 +26,9 @@ webpack
 loopback
 morgan
 postman
-Api RestFull | GraphQl 
-jsonviewr
+Api RestFull | GraphQl
+Create API RestFull | Flask + Python
+jsonviewer
 json-placeholders
 
 
