@@ -7,6 +7,13 @@ Creacion de Api RestFull basados en Python
 https://unipython.com/como-hacer-paso-a-paso-una-api-restful-en-flask-con-python/
 https://www.paradigmadigital.com/dev/implementar-microservicios-python-minutos/
 http://migueleonardortiz.com.ar/rest/como-crear-un-api-con-python-flask-y-mongodb/1952
+
+Video Node
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
+
+Video Api RestFull | Node | Express
+https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8
+
 Ejemplos de Microservicios
 https://github.com/eso31/WebApp-flask
 https://github.com/eso31/API-flask
@@ -21,10 +28,13 @@ shell scripts | Python
 npm | npx
 node.js
 express.js
+morgan
+nodemom
 axios | promise | await
 webpack
 loopback
-morgan
+
+
 postman
 Api RestFull | GraphQl
 Create API RestFull | Flask + Python
