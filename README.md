@@ -2,12 +2,24 @@
 SoftwareLibre
 
 Video Vue | Vuex
-https://github.com/qirolab/learn-vuex-with-basic-ecommerce-example/tree/master/vuex-tutorial
+https://www.youtube.com/watch?v=FIL0za5MzZA&list=PL1TrjkMQ8UbVSDkDaLkjpeNGkblNU8rpW
+Github | https://github.com/qirolab/learn-vuex-with-basic-ecommerce-example/tree/master/vuex-tutorial
+
+https://www.youtube.com/watch?v=Esdj9wlBOaI  | Flask
+Github | https://github.com/FaztWeb/flask-simple-restapi
+
+https://www.youtube.com/watch?v=IgCfZkR8wME  | Flask | database
+Github | https://github.com/FaztWeb/flask-crud-contacts-app
 
 Creacion de Api RestFull basados en Python | otra de tantas opciones
 https://unipython.com/como-hacer-paso-a-paso-una-api-restful-en-flask-con-python/
+
 https://www.paradigmadigital.com/dev/implementar-microservicios-python-minutos/
 http://migueleonardortiz.com.ar/rest/como-crear-un-api-con-python-flask-y-mongodb/1952
+
+Javascript | async | await
+https://www.youtube.com/watch?v=Q3HtXuDEy5s
+
 
 Video Node | The Net Ninja
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
@@ -33,10 +45,11 @@ https://jsao.io/2019/06/uploading-and-downloading-files-streaming-in-node-js/
 
 ## editores Visual Studio Code | Atom | Vim y sus plugins 
 
-shell scripts | Python
-npm | npx
+shell scripts .sh | 
+Python | Flask
 node.js
 express.js
+npm | npx
 body-parser.js
 morgan
 nodemom
